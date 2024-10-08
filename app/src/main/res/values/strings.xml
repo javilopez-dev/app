@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Javier</string>
+    <string name="navigation_drawer_open">Abrir para navegar</string>
+    <string name="navigation_drawer_close">Cerrar para navegar</string>
+    <string name="nav_header_title">Javier Lopez</string>
+    <string name="nav_header_subtitle">desarrollador.dev@gmail.com</string>
+    <string name="nav_header_desc">Menú</string>
+    <string name="action_settings">Configuracion</string>
+
+    <string name="menu_home">Menú</string>
+    <string name="menu_gallery">Fotos</string>
+    <string name="menu_slideshow">Nagegar</string>
+</resources>
